@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-right: 0;
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+    /* Make the container take up the full width */
+    max-width: 3000px;
+    /* Set a maximum width for the container */
+}
+
+.button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
